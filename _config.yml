@@ -1,0 +1,16 @@
+remote_theme: thelehhman/texture
+theme: texture
+texture:
+  title: Davi Mendes
+  showNav: true
+  tagline: Electronic Engineering Student
+  date_format: "%b %-d, %Y"
+  style: black
+  social_links:
+    github: mendes-davi
+    linkedIn: in/ddmendes
+show_excerpts: true
+relative_links:
+  enabled: true
+  collections: true
+google_analytics: 
